@@ -4,15 +4,22 @@ Software Engineer Backend Developer (Digital Banking)
 Job Summary
 หน้าที่รับผิดชอบ
 As a Software Engineer in SCB Digital Banking you will join a group of enthusiastic and passionate people. 
+ในฐานะวิศวกรซอฟต์แวร์ใน SCB Digital Banking คุณจะเข้าร่วมกลุ่มคนที่มีความกระตือรือร้น
 
 Job Description
 รายละเอียดงาน
 Analyze, design, develop, test, and deploy software.
+วิเคราะห์ ออกแบบ พัฒนา ทดสอบ และปรับใช้ซอฟต์แวร์
 Maintain high standards code quality and keep up with industry best practices.
+รักษาคุณภาพโค้ดที่มีมาตรฐานสูงและปฏิบัติตามแนวทางปฏิบัติที่ดีที่สุดของอุตสาหกรรม
 Review code and provide feedback.
+ตรวจสอบรหัสและให้ข้อเสนอแนะ
 
 Qualifications
 คุณสมบัติของงาน
 1 year of experience with backend programming language, e.g., JavaScript (Node.js), Java, Python, Go, etc.
+ประสบการณ์ 1 ปี เกี่ยวกับภาษาโปรแกรมแบ็กเอนด์ เช่น JavaScript (Node.js), Java, Python, Go เป็นต้น
 Familiarity with API development.
+คุ้นเคยกับการพัฒนา API
 Familiarity with relational databases and/or NoSQL databases.
+ความคุ้นเคยกับฐานข้อมูลเชิงสัมพันธ์และ/หรือฐานข้อมูล NoSQL
